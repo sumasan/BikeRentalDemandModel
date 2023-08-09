@@ -14,13 +14,21 @@ Building Multiple Linear Regression model for the prediction of demand for share
 
 ## Table of Contents
 1.Prepare data
+
 2.Cleaning the data
+
 3.Visualise data
+
 4.Data Preparation
+
 5.Splitting the Data into Training and Testing Sets
+
 6.Building Model
+
 7.Residual Analysis of train data
+
 8.Predictions Using the Final Model
+
 9.Model Evaluation
 
  
